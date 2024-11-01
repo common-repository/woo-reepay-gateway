@@ -1,0 +1,32 @@
+*** Changelog ***
+
+= 1.1.0 - 2018-10-08 =
+* Fix - Fixed an error that appeared for virtual products.
+* Add - Possibility for embedded CC form.
+* Add - Possibility for overlay CC form.
+* Add - Possibility for switching between LIVE and sandbox mode.
+
+= 1.1.1 - 2018-10-06 =
+
+* Removal - Overlay checkout window.
+* Fix - pop-up form according to Reepay's API
+* Fix - error when there is no shipping methods available at a store
+* Change - order statuses become "Processing" when order are authorized (previously were "Pending")
+
+= 1.2.0 - 2018-11-15 =
+
+* Add - Subscriptions functionality
+* Add - A column to display transactions that have been charged
+* Fix - pop-up form on some of the pages
+
+= 1.2.1 - 2018-11-16 =
+
+* Fix - fixed an error so there is no charge when ordering a free trial for a subscription
+
+= 1.2.2 - 2018-11-16 =
+
+* Include - included a check icon with the images
+
+= 1.2.3 - 2018-11-20 =
+
+* Fix - settle and charge rules according to Reepay requirements
